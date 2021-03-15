@@ -4,3 +4,6 @@
 /blog/moderation/node_modules
 /blog/posts/node_modules
 /blog/query/node_modules
+
+
+/ticketing/auth/node_modules
