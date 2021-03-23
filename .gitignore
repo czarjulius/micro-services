@@ -7,3 +7,5 @@
 
 
 /ticketing/auth/node_modules
+/ticketing/client/node_modules
+/ticketing/client/.next
